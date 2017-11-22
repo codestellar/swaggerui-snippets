@@ -1,0 +1,27 @@
+{
+  "name": "swaggerui-snippets",
+  "version": "1.0.0",
+  "description": "Code Snippets for Swagger UI",
+  "main": "insert-code-samples.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swagger-ui",
+    "swagger",
+    "code-snippets",
+    "swashbuckle",
+    "code-samples"
+  ],
+  "author": "gauravmadaan@outlook.com",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "highlight.js": "^9.12.0",
+    "jquery": "^3.2.1",
+    "swagger-snippet": "^0.5.1"
+  }
+}
